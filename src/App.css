@@ -1,0 +1,9 @@
+body {
+  margin: 5%;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  padding-bottom: 2vh;
+  padding-top: 2vh;
+}
